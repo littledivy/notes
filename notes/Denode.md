@@ -1,8 +1,9 @@
 ---
 attachments: [denode_error.png]
+tags: [deno, open-source]
 title: Denode
 created: '2020-12-19T10:35:10.379Z'
-modified: '2020-12-19T10:48:44.755Z'
+modified: '2020-12-19T17:15:24.535Z'
 ---
 
 # Denode

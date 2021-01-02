@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-12-22-12-58-26.png]
 title: S-block elements
 created: '2020-12-22T06:13:42.323Z'
-modified: '2020-12-22T08:08:53.415Z'
+modified: '2020-12-31T07:05:01.315Z'
 ---
 
 # S-block elements
@@ -162,4 +162,17 @@ Li ion behaves as group 2 nitrates and it gives oxide NO2 and O2 gas.
 
 8) If concentrated solution of these alkali metals in liquid ammonia taken then, its colour changes to bronze and it becomes _diamagnetic in nature_ because ammoniated electrons get paired up.
 
+### Chemical properties of NaOH
+
+1) Reaction with acids
+
+```
+NaOH + HCl --> NaCl + H2O
+
+NaOH + H3PO4 --> NaH2PO4 + H2O
+       ^^^^^
+       weak polytropic acid
+
+NaOH + Na2HPO4 --> NA3PO4 + H2O
+```
 
